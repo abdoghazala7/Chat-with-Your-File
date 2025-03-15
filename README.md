@@ -51,7 +51,7 @@ If you want to run this project locally, follow these steps:
 
 If you don't want to deploy the project locally, you can access the live version directly:
 
-- Visit the hosted application at: [Your Deployed App URL](https://your-deployed-app-url.com)
+- Visit the hosted application at: [Your Deployed App URL](https://practicalllms-chat-with-your-file.streamlit.app/)
 
 No setup is required—simply upload your file, create the vector database, and start chatting!
 
